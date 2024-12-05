@@ -8,7 +8,7 @@ This project is part of my internship at **Prodigy** and serves as an entry poin
 
 ## 🔗 Live Demo
 
-Check out the live demo of my portfolio intro page here: [**Portfolio URL**]: (https://your-portfolio-url.com)
+Check out the live demo of my portfolio intro page here: [**Portfolio URL**] : (https://your-portfolio-url.com)
 
 ## 🛠️ Built With
 
