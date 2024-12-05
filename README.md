@@ -1,6 +1,6 @@
 # 🎨 My Portfolio Intro Page
 
-Welcome to the intro page of my personal portfolio website, showcasing my journey through code and creativity as a Python Developer and Web Developer.
+Welcome to the intro page of my personal portfolio website, showcasing my journey through code and creativity as a Python Web Developer.
 
 ## 🌟 Overview
 
