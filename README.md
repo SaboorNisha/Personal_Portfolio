@@ -28,3 +28,7 @@ Check out the live demo of my portfolio intro page here: [**Portfolio URL**] : (
 
 ![img2](https://github.com/user-attachments/assets/86bb2049-47bf-4dfa-bd3f-3846aca86289)
 
+-------
+
+## Contributing
+**Your contributions are valuable! Whether you've found a bug or have suggestions for improvements, feel free to open an issue or submit a pull request. Your input helps make this application better for everyone.**
